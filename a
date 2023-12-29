@@ -1,0 +1,26 @@
+[33m13e5e42[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull --rebase origin main (start): checkout 13e5e42996cf3e14847c637f1c049454ce567834
+[33m6f14437[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: commit: project3 Django API rest full
+[33m6ecfab6[m HEAD@{2}: commit (amend): add-interface
+[33md931d21[m HEAD@{3}: commit: add-interface
+[33m838072b[m HEAD@{4}: checkout: moving from add-book to main
+[33md6a907a[m[33m ([m[1;32madd-book[m[33m)[m HEAD@{5}: commit: add-admin
+[33m9b133a9[m HEAD@{6}: commit: add-book-viewset
+[33m838072b[m HEAD@{7}: checkout: moving from main to add-book
+[33m838072b[m HEAD@{8}: merge origin/main: Merge made by the 'ort' strategy.
+[33mc9f8ef9[m HEAD@{9}: commit (merge): Merge branch 'main' of https://github.com/am5799/Library-Management-System
+[33md546b38[m HEAD@{10}: checkout: moving from add-deposits to main
+[33mca6717a[m[33m ([m[1;32madd-deposits[m[33m)[m HEAD@{11}: checkout: moving from main to add-deposits
+[33md546b38[m HEAD@{12}: reset: moving to HEAD
+[33md546b38[m HEAD@{13}: pull origin main: updating HEAD
+[33md546b38[m HEAD@{14}: checkout: moving from bookmanagement2 to main
+[33me509ad8[m[33m ([m[1;32mbookmanagement2[m[33m)[m HEAD@{15}: commit (merge): Resolve conflicts in Python and binary files
+[33m1597ac4[m[33m ([m[1;32mbookmanagement[m[33m)[m HEAD@{16}: checkout: moving from main to bookmanagement2
+[33md546b38[m HEAD@{17}: commit: test
+[33m618d118[m HEAD@{18}: checkout: moving from bookmanagement2 to main
+[33m1597ac4[m[33m ([m[1;32mbookmanagement[m[33m)[m HEAD@{19}: checkout: moving from bookmanagement2 to bookmanagement2
+[33m1597ac4[m[33m ([m[1;32mbookmanagement[m[33m)[m HEAD@{20}: checkout: moving from bookmanagement2 to bookmanagement2
+[33m1597ac4[m[33m ([m[1;32mbookmanagement[m[33m)[m HEAD@{21}: checkout: moving from bookmanagement to bookmanagement2
+[33m1597ac4[m[33m ([m[1;32mbookmanagement[m[33m)[m HEAD@{22}: commit: books
+[33m618d118[m HEAD@{23}: checkout: moving from main to bookmanagement
+[33m618d118[m HEAD@{24}: checkout: moving from main to main
+[33m618d118[m HEAD@{25}: clone: from https://github.com/am5799/Library-Management-System.git
