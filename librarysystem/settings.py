@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
 ]
 
+
 AUTH_USER_MODEL = 'usermanagement.User'
 
 MIDDLEWARE = [
